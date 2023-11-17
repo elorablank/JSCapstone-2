@@ -1,0 +1,48 @@
+
+.card-title {
+    color: rgb(87, 75, 162);
+}
+
+.card-text {
+    color:mediumslateblue;
+    padding:1rem;
+    font-size:larger;
+}
+.form-select {
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin: 2rem;
+    background-color: antiquewhite;
+}
+
+.btn {
+    margin: auto;
+    background-color: rgb(188, 179, 241);
+}
+
+.d-inline {
+    background-color: rgb(188, 179, 241);
+    font-size: 1rem;
+}
+
+.form-control {
+    margin-bottom: 2rem;
+}
+
+#search {
+    background-color: rgb(188, 179, 241);
+    border-color: rgb(188, 179, 241);
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#reset {
+    background-color:indianred;
+    border-color: indianred;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}

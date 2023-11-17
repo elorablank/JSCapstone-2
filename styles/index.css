@@ -1,0 +1,57 @@
+.rounded {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    background-color: transparent;
+    border: none;
+}
+
+.btn {
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(188, 179, 241);
+}
+
+
+#container {
+    margin: 5rem;
+    border: none;
+    background-color: antiquewhite;
+}
+
+.card-body {
+    font-size:larger;
+    text-align: center;
+}
+
+.card-title {
+    padding: 2rem;
+    color:rgb(87, 75, 162);
+}
+
+.card {
+    color: mediumslateblue;
+}
+
+small {
+    padding: 2rem;
+    color: rgb(188, 179, 241);
+}
+
+.badge {
+    margin: 2rem;
+}
+
+#parkType {
+    background-color:palevioletred;
+}
+
+#location {
+    background-color: mediumslateblue;
+}
+
+#contact {
+    background-color:indianred;
+}

@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+    --bg-color: lightsalmon;
+    
+}
+
+.navbar-nav .nav-link.active {
+    --bs-navbar-active-color: mediumpurple;
+}
+
+nav {
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+.form-select {
+    background-color: antiquewhite;
+}
+
+.display-3 {
+    font-weight: bolder;
+    text-align: center;
+    color: antiquewhite;
+    padding: 2rem;
+}
+.picturefill-background {
+    padding: 5rem;
+    background-image: url(/imagesGen/bgImage1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    
+}
