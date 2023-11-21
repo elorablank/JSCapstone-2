@@ -74,7 +74,7 @@ function drawMountainCard (data) {
       </div>
     </div>
     <div class="container fill mb-5">
-      <img src="../images/${mountain.img}" alt="${mountain.name}">
+      <img src="./data/images/${mountain.img}" alt="${mountain.name}">
     </div>`
         break
       } 
