@@ -1,13 +1,13 @@
-
 .card-title {
     color: rgb(87, 75, 162);
 }
 
 .card-text {
-    color:mediumslateblue;
-    padding:1rem;
-    font-size:larger;
+    color: mediumslateblue;
+    padding: 1rem;
+    font-size: larger;
 }
+
 .form-select {
     margin-bottom: 2rem;
 }
@@ -40,7 +40,7 @@
 }
 
 #reset {
-    background-color:indianred;
+    background-color: indianred;
     border-color: indianred;
     font-size: large;
     font-weight: bold;
